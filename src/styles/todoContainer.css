@@ -1,0 +1,3 @@
+.todo-row:nth-child(2n + 1) {
+  background-color: rgb(148, 144, 144);
+}
